@@ -1,6 +1,7 @@
+import io.github.ducduyn31.questgamification.QuestManager;
+import io.github.ducduyn31.questgamification.quests.Quest;
+import io.github.ducduyn31.questgamification.quests.QuestObjective;
 import org.junit.Test;
-import quests.Quest;
-import quests.QuestObjective;
 
 public class DatabaseUnitTest {
 

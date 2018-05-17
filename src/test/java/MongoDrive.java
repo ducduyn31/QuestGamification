@@ -1,6 +1,5 @@
-import com.mongodb.DBCursor;
 import com.mongodb.MongoClientURI;
-import databases.Queriable;
+import io.github.ducduyn31.questgamification.databases.Queriable;
 
 import java.util.function.Predicate;
 
